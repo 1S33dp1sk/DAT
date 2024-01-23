@@ -1,12 +1,19 @@
 
 
-eip: <to be assigned>
-title: Decentralized Autonomous Treasury Standard
-author: Karam Jaber <mrkj@d-cloud.io>
-type: Standards Track
-category: ERC
-status: Draft
-created: Jan 12th 2024
+eip: <to be assigned>     
+
+title: Decentralized Autonomous Treasury Standard     
+
+author: Karam Jaber <mrkj@d-cloud.io>      
+
+type: Standards Track      
+
+category: ERC     
+
+status: Draft      
+
+created: Jan 12th 2024      
+
 
 ## Simple Summary
 
